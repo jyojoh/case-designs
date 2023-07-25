@@ -1,4 +1,5 @@
 # Typeractive Corne
+![5-col preview](preview.JPG)
 The subfolders here contain production files (.STEP, .STL) for the Corne PCBs found at [Typeractive](https://typeractive.xyz)
 
 ## Introduction
