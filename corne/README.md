@@ -1,6 +1,6 @@
 # Typeractive Corne
 ![5-col preview](preview.JPG)
-The subfolders here contain production files (.STEP, .STL) for the Corne PCBs found at [Typeractive](https://typeractive.xyz)
+The subfolders here contain production files (.STEP, .STL) for the Corne PCBs found at [Typeractive](https://typeractive.xyz). Please read the following materials closely to ensure proper preparation of parts and subsequent assembly. 
 
 ## Introduction
 ### Specifications
@@ -11,14 +11,14 @@ The subfolders here contain production files (.STEP, .STL) for the Corne PCBs fo
 ### Required Components (Bare minimum useable keyboard)
 1. 2 x Case (Left and Right)
 2. 2 x Typeractive Corne PCB
-3. 2 x Nice!nano v2
+3. 2 x nice!nano v2
 4. 36/42 x Kailh Choc v1 Switches (Quantities for 5-column/6-column)
 5. 36/42 x Keycaps (Pictured are MCC POM)
 6. 10 x 4mm Female to 3mm Male M2 Standoffs
 7. 10 x M2x3mm Bolts
 
 ### Optional Components (Highly Recommended!)
-1. 2 x Nice!view Displays
+1. 2 x nice!view Displays
 2. 2 x Display Covers
 3. 4 x M2x10mm Standoffs
 4. 4 x Additional M2x3mm Bolts
@@ -27,6 +27,11 @@ The subfolders here contain production files (.STEP, .STL) for the Corne PCBs fo
 7. 4 x SKUF Silicone Rubber Feet
 
 All of the listed parts can be bought through Typeractive, except for the case components, female/male standoffs, battery, and SKUF feet. 
+
+## Manufacturing Notes
+1. You only need to print 1 x [buttonSlider.stl](buttonSlider.stl). It includes 2 x power sliders and 2 x reset bumpers to be cut apart.
+2. Recommended manufacturer for the case is [PCBWay](https://pcbway.com), manufacturer for the printed button/slider is [JLCPCB](https://jlcpcb.com).
+3. Material used for [buttonSlider.stl](buttonSlider.stl) is SLA "Black Resin", bead-blasted polycarbonate for the case.
 
 ## Assembly
 1. Assemble the keyboard sans-case as per the [documentation](https://docs.typeractive.xyz/build-guides/corne-wireless) on the Typeractive site.
