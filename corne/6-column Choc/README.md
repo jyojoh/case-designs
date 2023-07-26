@@ -1,0 +1,13 @@
+## CNC Data Preparation
+When filling out the CNC manufacturing form through [PCBWay](https://pcbway.com), make sure to pay close attention to the following parameters:
+
+1. Specify the desired surface finish. This will most likely be "bead-blasting". 
+2. Specify that threaded holes are needed, and upload [threadDrawing.png](threadDrawing.png) to denote which holes need to be threaded for the M2 female/male standoffs.
+3. If the surface finish of the part is of importance to you (it is for me), check the "Premium Finish" option. Note that this will result in an noticeable increase in price. 
+
+## 3D-Printing Data Preparation
+For a more budget-friendly version, you may choose to have the case along with the button and slider resin-printed instead through [JLCPCB](https://jlcpcb.com). Pay close attention to the follow parameters:
+
+1. Specify the desired material. My choice for this would be SLA "Imagine Black".
+2. You will notice that there is no "threading" option available on JLCPCB's 3D printing form. You will have to force-thread the standoffs yourself. This will almost certainly cause the holes to strip out first, an acceptable compromise as the friction should still hold the standoff firmly in place. 
+3. Ensure that the sanding option is set to "Yes". This will greatly improve surface finish quality at little to no extra cost. 
