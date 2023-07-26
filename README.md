@@ -1,5 +1,10 @@
 # case-designs
 Repository containing design files an documentation for keyboard cases designed by me. 
+
+<center><a href="https://discord.gg/jP6hvgNN8r">
+  <img src="https://img.shields.io/discord/637535684122509312?color=%237289da&label=%20&logo=discord&logoColor=%23fff&style=flat-square" />
+</a></center>
+
 ## Currently Maintained Designs
 1. Choc 5-column Corne
 2. Choc 6-column Corne (Planned)
