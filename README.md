@@ -1,7 +1,7 @@
 # case-designs
 Repository containing design files an documentation for keyboard cases designed by me. 
 
-<center><a href="https://discord.gg/jP6hvgNN8r">
+<center><a href="https://discord.gg/P8n4zPxJH5">
   <img src="https://img.shields.io/discord/637535684122509312?color=%237289da&label=%20&logo=discord&logoColor=%23fff&style=flat-square" />
 </a></center>
 
