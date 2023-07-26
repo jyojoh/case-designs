@@ -6,8 +6,8 @@ Repository containing design files an documentation for keyboard cases designed 
 </a></center>
 
 ## Currently Maintained Designs
-1. Choc 5-column Corne
-2. Choc 6-column Corne (Planned)
+1. [Choc 5-column Corne](/corne/5-column%20Choc)
+2. [Choc 6-column Corne](/corne/6-column%20Choc)
 3. MX 6-column Corne (Planned)
    
 ## Retired Projects
