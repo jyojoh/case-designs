@@ -9,12 +9,12 @@ The subfolders here contain production files (.STEP, .STL) for the Corne PCBs fo
 1. 2 x [nice!nano v2](https://typeractive.xyz/products/nice-nano)
 1. 2 x LiPo Batteries:
     - Tented Cases: 803450 1600mAh LiPo Battery 
-    - Flat Cases: 503450 1000 mAh LiPo Battery
+    - Flat/Inset Cases: 503450 1000 mAh LiPo Battery
 1. 36/42 x Kailh Choc v1 Switches (Quantities for 5-column/6-column)
 1. 36/42 x Keycaps (Pictured are MCC POM)
 1. 10 x Brass Standoffs:
     - Tented Cases: 4mm Female to 3mm Male M2 Standoffs
-    - Flat Cases: 3mm Female to 3mm Male M2 Standoffs
+    - Inset Cases: 3mm Female to 3mm Male M2 Standoffs
 1. 10 x M2x3mm Bolts
 
 ### Optional Components **(Highly Recommended!)**
@@ -22,12 +22,12 @@ The subfolders here contain production files (.STEP, .STL) for the Corne PCBs fo
 1. 2 x [Display Covers](displayCover.dxf)
 1. 4 x M2x10mm Standoffs
 1. 4 x Additional M2x3mm Bolts
-1. 1 x [buttonSlider.stl](buttonSlider.stl) which includes already print-plated:
+1. 1+ x [buttonSlider.stl](buttonSlider.stl) which includes already print-plated:
     - 2 x Power Switch Slider (3D-resin printed)
     - 2 x Reset Button Bumper (3D-resin printed)
 1. 4 x SKUF Silicone Rubber Feet
 
-All of the listed parts can be bought through Typeractive, except for the case components, female/male standoffs, battery, and SKUF feet. 
+All of the listed parts can be bought through Typeractive, except for the case components, fasteners, batteries, and SKUF feet. 
 
 ## Manufacturing Notes
 1. You only need to print 1 x [buttonSlider.stl](buttonSlider.stl), however it is recommended that you print at least one extra to accomodate any mistakes in the post-processing of the printed pieces. One print of the STL includes 2 x power sliders and 2 x reset bumpers to be cut/snapped apart.

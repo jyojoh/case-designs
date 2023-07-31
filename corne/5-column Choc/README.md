@@ -7,7 +7,8 @@ All case designs listed are derivatives of the "Standard" case. Unless otherwise
 1. [Inset-Flat](/corne/5-column%20Choc/Inset-Flat): Tray Mount. In all aspects the same as the Standard case, except 1mm shorter in height. Non-tented. Requires 3mm standoffs instead of the usual 4mm. Suitable for CNC or 3D-printing.
 1. [Slim](/corne/5-column%20Choc/Slim): Tray Mount. 3mm thick walls, 1-piece design suitable for CNC or 3D-printing. 
 1. [Slim-Flat](/corne/5-column%20Choc/Slim-Flat): Tray Mount. 3mm thick walls non-tented. 1-piece design suitable for CNC or 3D-printing. 
-1. [Integrated](/corne/5-column%20Choc/Integrated): "Premium", designed with weight bottom in mind. Integrated Plate. 5mm thick walls, tented. 2-piece case design suitable for CNC machining. 
+1. [Integrated](/corne/5-column%20Choc/Integrated): "Premium", designed with weight bottom in mind. Integrated Plate. 5mm thick walls, tented. 2-piece case design suitable for CNC machining.
+1. [Legged](/corne/5-column%20Choc/Legged): Tray Mount. Includes protrusions that can be threaded or accept heat-set inserts for the installation of tenting legs. 5mm thick walls, 1-piece design suitable for CNC or 3D-printing. 
 ## CNC Data Preparation
 When filling out the CNC manufacturing form through [PCBWay](https://pcbway.com), make sure to pay close attention to the following parameters:
 
