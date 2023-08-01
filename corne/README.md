@@ -9,7 +9,8 @@ The subfolders here contain production files (.STEP, .STL) for the Corne PCBs fo
 1. 2 x [nice!nano v2](https://typeractive.xyz/products/nice-nano)
 1. 2 x LiPo Batteries:
     - Tented Cases: 803450 1600mAh LiPo Battery 
-    - Flat/Inset Cases: 503450 1000 mAh LiPo Battery
+    - Inset Cases: 503450 1000 mAh LiPo Battery
+    - Flat Cases: 303450 600 mAh LiPo Battery
 1. 36/42 x Kailh Choc v1 Switches (Quantities for 5-column/6-column)
 1. 36/42 x Keycaps (Pictured are MCC POM)
 1. 10 x Brass Standoffs:
