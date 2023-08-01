@@ -17,6 +17,7 @@ The subfolders here contain production files (.STEP, .STL) for the Corne PCBs fo
     - Tented Cases: 4mm Female to 3mm Male M2 Standoffs
     - Inset Cases: 3mm Female to 3mm Male M2 Standoffs
 1. 10 x M2x3mm Bolts
+1. 10 x [M2x3mm Heatset Inserts](https://a.co/d/eyAmOag) **(Only if 3D-printing the Heatset Variants)**
 
 ### Optional Components **(Highly Recommended!)**
 1. 2 x [nice!view Displays](https://typeractive.xyz/products/nice-view)
