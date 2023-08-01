@@ -23,7 +23,7 @@ The subfolders here contain production files (.STEP, .STL) for the Corne PCBs fo
 1. 2 x [Display Covers](displayCover.dxf)
 1. 4 x M2x10mm Standoffs
 1. 4 x Additional M2x3mm Bolts
-1. 1+ x [buttonSlider.stl](buttonSlider.stl) which includes already print-plated:
+1. 1+ x [buttonSlider.stl](buttonSlider.stl) or [buttonSliderSlim.stl](buttonSliderSlim.stl) (for slim cases) which includes already print-plated:
     - 2 x Power Switch Slider (3D-resin printed)
     - 2 x Reset Button Bumper (3D-resin printed)
 1. 4 x SKUF Silicone Rubber Feet
@@ -31,9 +31,9 @@ The subfolders here contain production files (.STEP, .STL) for the Corne PCBs fo
 All of the listed parts can be bought through Typeractive, except for the case components, fasteners, batteries, and SKUF feet. 
 
 ## Manufacturing Notes
-1. You only need to print 1 x [buttonSlider.stl](buttonSlider.stl), however it is recommended that you print at least one extra to accomodate any mistakes in the post-processing of the printed pieces. One print of the STL includes 2 x power sliders and 2 x reset bumpers to be cut/snapped apart.
+1. You only need to print 1 x [buttonSlider.stl](buttonSlider.stl) or [buttonSliderSlim.stl](buttonSliderSlim.stl) depending on the case design, however it is recommended that you print at least one extra to accomodate any mistakes in the post-processing of the printed pieces. One print of the STL includes 2 x power sliders and 2 x reset bumpers to be cut/snapped apart.
 2. Recommended manufacturer for the case is [PCBWay](https://pcbway.com), manufacturer for the printed button/slider is [JLCPCB](https://jlcpcb.com).
-3. Material used for [buttonSlider.stl](buttonSlider.stl) is SLA "Black Resin", bead-blasted polycarbonate for the case.
+3. Material used for [buttonSlider.stl](buttonSlider.stl) and [buttonSliderSlim.stl](buttonSliderSlim.stl) is SLA "Black Resin", bead-blasted polycarbonate for the case in the included pictures.
 
 ## Assembly
 1. Assemble the keyboard sans-case as per the [documentation](https://docs.typeractive.xyz/build-guides/corne-wireless) on the Typeractive site.
