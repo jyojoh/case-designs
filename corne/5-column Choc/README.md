@@ -3,6 +3,7 @@ All case designs listed are derivatives of the "Standard" case. Unless otherwise
 ![5-col preview](/corne/preview.JPG)
 
 ## In this folder:
+<script src="https://embed.github.com/view/3d/jyojoh/case-designs/master/corne/5-column%20Choc/Standard/leftStandard.stl"></script>
 1. [Standard](/corne/5-column%20Choc/Standard): Tray Mount. 5mm thick walls, 1-piece design suitable for CNC or 3D-printing. 
 1. [Standard-Flat](/corne/5-column%20Choc/Standard-Flat): Tray Mount. 5mm thick walls, non-tented. 1-piece design suitable for CNC or 3D-printing.
 1. [Inset](/corne/5-column%20Choc/Inset): Tray Mount. In all aspects the same as the Standard case, except 1mm shorter in height. Requires 3mm standoffs instead of the usual 4mm. Suitable for CNC or 3D-printing.
