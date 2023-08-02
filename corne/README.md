@@ -35,6 +35,7 @@ All of the listed parts can be bought through Typeractive, except for the case c
 1. You only need to print 1 x [buttonSlider.stl](buttonSlider.stl) or [buttonSliderSlim.stl](buttonSliderSlim.stl) depending on the case design, however it is recommended that you print at least one extra to accomodate any mistakes in the post-processing of the printed pieces. One print of the STL includes 2 x power sliders and 2 x reset bumpers to be cut/snapped apart.
 2. Recommended manufacturer for the case is [PCBWay](https://pcbway.com), manufacturer for the printed button/slider is [JLCPCB](https://jlcpcb.com).
 3. Material used for [buttonSlider.stl](buttonSlider.stl) and [buttonSliderSlim.stl](buttonSliderSlim.stl) is SLA "Black Resin", bead-blasted polycarbonate for the case in the included pictures.
+1. **Machining the case designs using metal materials could result in connectivity issues, due to the signal wave-blocking properties of metal. Do so at your own risk!**
 
 ## Assembly
 1. Assemble the keyboard sans-case as per the [documentation](https://docs.typeractive.xyz/build-guides/corne-wireless) on the Typeractive site.
