@@ -2,6 +2,8 @@ All case designs listed are derivatives of the "Standard" case. Unless otherwise
 
 ## In this folder:
 1. [Standard](/corne/6-column%20Choc/Standard): Tray Mount. 5mm thick walls, 1-piece design suitable for CNC or 3D-printing. 
+1. [Standard-Flat](/corne/6-column%20Choc/Standard-Flat): Tray Mount. 5mm thick walls, non-tented. 1-piece design suitable for CNC or 3D-printing.
+1. [Integrated](/corne/6-column%20Choc/Integrated): "Premium", designed with weight bottom in mind. Integrated Plate. 5mm thick walls, tented. 2-piece case design suitable for CNC machining.
 ## CNC Data Preparation
 When filling out the CNC manufacturing form through [PCBWay](https://pcbway.com), make sure to pay close attention to the following parameters:
 
