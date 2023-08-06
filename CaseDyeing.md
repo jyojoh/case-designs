@@ -6,6 +6,7 @@
 1. iDye Poly Dye Packet
 1. Large pot (big enough to comfortably submerge your case entirely)
 1. Suitable heat source, such as a stovetop
+1. Thin Insulated wire
 1. Mesh/Wire Basket to hold case, or large perforated ladle
 
 When dyeing polycarbonate cases, there are 2 major factors that will dictate how quickly the color dye will penetrate the material: time, and temperature. The former is self-explanatory, the longer the item is submerged, the more the dye penetrates the material. For the latter, as temperature increases the dye will more easily penetrate the material. To illustrate, a case submerged in a near-boil solution of dye and water will be much darker than a case submerged in a lukewarm solution, when both are submerged for the same amount of time. 
@@ -29,7 +30,9 @@ When dyeing polycarbonate cases, there are 2 major factors that will dictate how
 
 2. Bring the solution a simmer. Wait for all of the dye to completely dissolve into solution. 
 1. Using the ladle or mesh basket, lower the pieces into the solution. Start a timer. 
-1. Continuously agitate the solution around the case by moving the ladle or mesh basket around in the pot. Ensure that the surface of the ladle does not stay at the same point of contact with the case, as this may case the ladle to become "imprinted" in the coloring of the case. 
+1. Continuously agitate the solution around the case by:
+    - Tying the thin wire around the USB port cutout, and jostling it continuously in the solution. Take case that the surface of the wire is insulated, as to prevent bare metal from scratching the case around the cutout. Additionally, ensure that the wire is thin enough to freely move in the port cutout, so as to not constantly be in contact with the interior faces, resulting in uneven dye coloring. 
+    -  "Bouncing" the piece up and down by quickly lowering the ladle/basket, then catching the slower-falling case. Ensure that the surface of the ladle does not stay at the same point of contact with the case, as this may case the ladle to become "imprinted" in the coloring of the case. 
 
 > [!Important]
 > Remember that polycarbonate is a relatively soft material when compared to the surfaces of any stainless steel utensils or the interior of the pot you are using! Take care in avoiding scrapes or harsh bumps when stirring and agitating the solution!
