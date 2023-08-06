@@ -7,6 +7,10 @@ Repository containing STL/STEP files and documentation for my keyboard case desi
 </a>
 </p>
 
+> [!WARNING]
+> Please read all enclosed information within the README files in each subfolder for the case that you want to use! There is vital information about battery compatibility, fasteners, and assembly instructions written for each case design!
+
+
 ## Currently Maintained Designs
 1. [Choc 5-column Corne](/corne/5-column%20Choc)
 2. [Choc 6-column Corne](/corne/6-column%20Choc)
