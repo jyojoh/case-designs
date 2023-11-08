@@ -28,11 +28,11 @@ When dyeing polycarbonate cases, there are 2 major factors that will dictate how
 > [!Note]
 > If you desire a "solid", dark color, then you can opt to apply the dye strengthener pack as well. This will allow the dye to very quickly penetrate the material, resulting in a much darker color. 
 
-2. Bring the solution a simmer. Wait for all of the dye to completely dissolve into solution. 
+2. Bring the solution to a simmer. Wait for all of the dye to completely dissolve into solution. 
 1. Using the ladle or mesh basket, lower the pieces into the solution. Start a timer. 
 1. Continuously agitate the solution around the case by:
-    - Tying the thin wire around the USB port cutout, and jostling it continuously in the solution. Take case that the surface of the wire is insulated, as to prevent bare metal from scratching the case around the cutout. Additionally, ensure that the wire is thin enough to freely move in the port cutout, so as to not constantly be in contact with the interior faces, resulting in uneven dye coloring. 
-    -  "Bouncing" the piece up and down by quickly lowering the ladle/basket, then catching the slower-falling case. Ensure that the surface of the ladle does not stay at the same point of contact with the case, as this may case the ladle to become "imprinted" in the coloring of the case. 
+    - Tying the thin wire around the USB port cutout, and jostling it continuously in the solution. Take care that the surface of the wire is insulated, as to prevent bare metal from scratching the case around the cutout. Additionally, ensure that the wire is thin enough to freely move in the port cutout, so as to not constantly be in contact with the interior faces, resulting in uneven dye coloring. 
+    -  "Bouncing" the piece up and down by quickly lowering the ladle/basket, then catching the slower-falling case. Ensure that the surface of the ladle does not stay at the same point of contact with the case, as this may cause the ladle to become "imprinted" in the coloring of the case. 
 
 > [!Important]
 > Remember that polycarbonate is a relatively soft material when compared to the surfaces of any stainless steel utensils or the interior of the pot you are using! Take care in avoiding scrapes or harsh bumps when stirring and agitating the solution!
